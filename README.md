@@ -17,7 +17,7 @@ This is a backend-server api therefore it should be tested using postman or a si
 
 example:
 
-sending a post request to [link text itself] https://localhost:44395/api/shop/2223/product
+sending a post request to https://localhost:44395/api/shop/2223/product
 with json body of
 ```
 {
