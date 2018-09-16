@@ -1,0 +1,16 @@
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\ShopifyChallenge.deps.json
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\ShopifyChallenge.runtimeconfig.json
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\ShopifyChallenge.runtimeconfig.dev.json
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\ShopifyChallenge.dll
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.csprojAssemblyReference.cache
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.RazorAssemblyInfo.cache
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.RazorAssemblyInfo.cs
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.AssemblyInfoInputs.cache
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.AssemblyInfo.cs
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\bin\Debug\netcoreapp2.1\ShopifyChallenge.pdb
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.dll
+C:\Users\it-el\OneDrive - McGill University\Desktop\shopify challenge\ShopifyChallenge\ShopifyChallenge\obj\Debug\netcoreapp2.1\ShopifyChallenge.pdb
