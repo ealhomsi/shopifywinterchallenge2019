@@ -1,4 +1,4 @@
-# shopifywinterchallenge2019
+# shopify winterchallenge 2019
 This is a small store written in asp.net core using cosmos-db as persistence.
 
 This project is written in C# using asp.net core latest version and cosmos db.
