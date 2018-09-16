@@ -29,7 +29,9 @@ with json body of
 
 ToDo:
 1. Errors returned are all 500 for now (return more detailed errors like 400, ...)
-2. 
+2. Adding more detailed operations. 
+3. Adding DTOs and other services
+4. Adding tests.
 
 Thanks you!!!!
 
