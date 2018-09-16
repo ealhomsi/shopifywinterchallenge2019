@@ -12,6 +12,24 @@ Documentation:
 The structure of cosmos db are documents which represents different shops (every shop has its own document)
 The code for every model/controller is organized in a way; there is a seperate controller for each model.
 
+Use:
+This is a backend-server api therefore it should be tested using postman or a similar tool
+
+example:
+
+sending a post request to [link text itself] https://localhost:44395/api/shop/2223/product
+with json body of
+```
+{
+	"id": "2223",
+	"products": {"lemons" : {"name": "lemons", "price": 3.14}},
+	"orders": null
+}
+```
+
+ToDo:
+1. Errors returned are all 500 for now (return more detailed errors like 400, ...)
+2. 
 
 Thanks you!!!!
 
